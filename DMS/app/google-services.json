@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1082874802229",
+    "project_id": "dms-app-9a37e",
+    "storage_bucket": "dms-app-9a37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1082874802229:android:18c7acd43ffd67c411017c",
+        "android_client_info": {
+          "package_name": "com.example.dms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJPFnkCWg-dZ6tgUerDtQm05A6MZnSq8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DMS</string>
+    <string name="newUserText">Create a new account</string>
+    <string name="loginBtn_text">Login</string>
+    <string name="password_hint">Password</string>
+    <string name="emailHint">Email</string>
+    <string name="emergencyText">Emergency</string>
+    <string name="welcomeText">Welcome</string>
+    <string name="signupText">SignUp</string>
+    <string name="phoneHint">Phone No.</string>
+    <string name="loginText">Already have a account? Login</string>
+    <string name="content_disc_campaign">On Going Campaign</string>
+    <string name="transaction">Transaction</string>
+    <string name="profile">My Profile</string>
+    <string name="scoreboard">Scoreboard</string>
+    <string name="about">Know About Us</string>
+    <string name="empergency_page">Empergency Page</string>
+</resources>
